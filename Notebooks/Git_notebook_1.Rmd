@@ -8,3 +8,9 @@ output: html_document
 Here is an RMarkdown made using Git version control.
 
 Making an update.
+
+Making another update, from GitHub online.
+
+```` {r section 1}
+plot(cars)
+````
