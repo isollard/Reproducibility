@@ -14,3 +14,5 @@ Making another update, from GitHub online.
 ```` {r section 1}
 plot(cars)
 ````
+
+Update made in side branch.
